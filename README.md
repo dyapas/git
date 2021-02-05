@@ -1,4 +1,4 @@
-# All About GitHUb
+# Markup launguage
 Normal text
 # This is Heading ( single pound sign # for Heading)
 ## This is Sub Heading ( two ## 's for sub heading)
