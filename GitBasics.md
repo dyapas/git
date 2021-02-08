@@ -129,3 +129,5 @@ index da0db80..1c032ca 100644
 - **Move/rename**: to move or rename:
     1. `git mv origFile RenamedFile`
     2. `git commit -m <commit message for moved/renamed file>`
+- To add and commit the updated/added files to the repository at the same time: `git commit -am "Add and commit changes"` (No changes will be pushed to staging and instead it directly saves the changes to repo directly)
+- To view a previously committed change: `git show <SHA ID of the commit> --color-words`
