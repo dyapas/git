@@ -1,5 +1,6 @@
-# Markup launguage
+# Markdown Doc
 Normal text
+## Testing Git WIP
 # This is Heading ( single pound sign # for Heading)
 ## This is Sub Heading ( two ## 's for sub heading)
 
