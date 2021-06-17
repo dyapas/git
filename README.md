@@ -257,6 +257,9 @@ Below is the yaml code
 
 ## To insert an Images
 ```same as Links but "!" comes extra ![SampleText](URL for the Image)```
+- ```![Alt text](Image URL)```
+-  if the image is located on the repo in different folder ```![TextToDisplay](/images/image.png)```
+-  if the image is in the same root folder: ```![TextToDisplay](image.png)```
 
 ex: ![Bird](https://asia.olympus-imaging.com/content/000107506.jpg)
 - [More Info](https://www.foxinfotech.in/2019/12/github-markdown-add-an-image-to-readme-md-file.html#:~:text=GitHub%20Markdown%3A%20Add%20an%20Image%20to%20README.md%20File,...%203%20Add%20an%20Image%20from%20External%20Resource)
